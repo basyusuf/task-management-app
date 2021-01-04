@@ -1,2 +1,4 @@
 db:
   synchorinize: false
+server:
+  origin: 'https://nestjs-task.s3.eu-central-1.amazonaws.com'
